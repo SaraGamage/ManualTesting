@@ -13,10 +13,9 @@ Test Case: 001
 
 ### Steps
 
-1. [ ] A
-1. [ ] B
-1. [ ] C
-1. [ ] D
+- A 
+- B
+- C
 
   
 ### Expected Result
