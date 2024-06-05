@@ -2,8 +2,10 @@
 name: Manual Test Case
 about: details
 title: Test Case 00X
-lables: 'test-case'
-assignees: ''
+lables: ["test-case"]
+projects: ["/SaraGamage/projects/6"]
+assignees:
+  - SaraGamage
 
 ---
 Test Case: 001
