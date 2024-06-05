@@ -2,8 +2,8 @@
 name: Simple Test Case
 about: this one has no expected result, other than "it works"
 title: Test Case 00X
-lables: ["smoke-test"]
-projects: ["/SaraGamage/projects/6"]
+labels: ["smoke-test"]
+projects: ["SaraGamage/6"]
 assignees:
   - SaraGamage
 
