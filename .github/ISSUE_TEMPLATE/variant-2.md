@@ -2,7 +2,7 @@
 name: Simple Test Case
 about: this one has no expected result, other than "it works"
 title: Test Case 00X
-lables: smoke-test
+lables: 'smoke-test'
 assignees: ''
 
 ---

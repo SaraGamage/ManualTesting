@@ -2,7 +2,7 @@
 name: Manual Test Case
 about: details
 title: Test Case 00X
-lables: test-case
+lables: 'test-case'
 assignees: ''
 
 ---
